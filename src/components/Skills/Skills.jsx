@@ -31,7 +31,7 @@ const slugs = [
   "git",
   "github",
   "gitlab",
-  "visualstudiocode",
+  // "visualstudiocode",
   "androidstudio",
   "figma",
   "reshape",
