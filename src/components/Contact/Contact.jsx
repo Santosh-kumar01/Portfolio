@@ -75,7 +75,7 @@ const Contact = () => {
               <label className="block">Email Address</label>
               <Input
                 {...register("email", {
-                  required: "Email is required",
+                  required: "Email Address is required",
                   pattern: {
                     value: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/,
                     message: "Invalid email address",

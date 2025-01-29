@@ -15,7 +15,7 @@ import {
 const slugs = [
   "typescript",
   "javascript",
-  // "java",
+
   "react",
   "android",
   "html5",
@@ -23,7 +23,7 @@ const slugs = [
   "nodedotjs",
   "express",
   "nextdotjs",
-  "amazonaws",
+  "amazonwebservices",
   "postgresql",
   "firebase",
   "nginx",
@@ -31,20 +31,17 @@ const slugs = [
   "git",
   "github",
   "gitlab",
-  // "visualstudiocode",
+
   "androidstudio",
   "figma",
-  "reshape",
+
   "linux",
-  "radius",
+
   "jet",
-  "kafkaesque",
-  "caching",
-  "elk",
+
   "elastic",
-  "java8",
-  "collection framework",
-  "servers",
+
+  "serverless",
   "redux",
   "socket.io",
   "awslambda",
@@ -142,12 +139,14 @@ const Skills = () => {
         <SparklesText text="Skills" />
       </div>
       <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-       
         <div>
           <h1 className="text-4xl font-bold font-serif text-purple-900 text-center">
             Education
           </h1>
-          <AnimatedListDemo className=' bg-sky-50' notifications={educationList}  />
+          <AnimatedListDemo
+            className=" bg-sky-50"
+            notifications={educationList}
+          />
         </div>
         <div>
           <h1 className="text-4xl font-bold font-serif text-purple-900 text-center">
@@ -162,7 +161,8 @@ const Skills = () => {
             Awards
           </h1>
           <div className=" h-full ">
-            <AnimatedListDemo className= ' bg-sky-50'
+            <AnimatedListDemo
+              className=" bg-sky-50"
               notifications={notifications}
             />
           </div>
