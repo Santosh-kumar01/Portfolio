@@ -43,7 +43,7 @@ const Contact = () => {
         </div>
         <p className=" py-4 text-center font-serif font-extrabold text-purple-900">
           Please fill out the form below. If you wish to avail of my services,
-          you can contact me through the links provided below.
+          you can contact me through the links provided below. polo
         </p>
         <div className=" flex justify-center items-center">
           <form
