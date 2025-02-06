@@ -10,24 +10,22 @@ import Footer from "@/components/Footer/Footer";
 
 import React from "react";
 
-import { Toaster } from "react-hot-toast";
+
 
 const page = () => {
   return (
-    <>
-      <div className=" bg-violet-50">
+
+      <div className=" w-full bg-violet-50">
         <Home />
         <About />
-
         <Skills />
         <Services />
         <Portfolio />
-
         <Contact />
         <Footer />
       </div>
-      <Toaster />
-    </>
+
+
   );
 };
 
