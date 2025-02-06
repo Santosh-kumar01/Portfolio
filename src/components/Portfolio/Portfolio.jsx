@@ -55,13 +55,13 @@ const Portfolio = () => {
                 alt={item.title}
                 width={100}
                 height={100}
-                className="w-[6rem] h-[6rem] rounded-full mb-4 ml-[7rem]"
+                className="w-[6rem] h-[6rem] rounded-full mb-[1rem] ml-[7rem]"
               />
               {item.title}
             </span>
             <div>
               <p className="text-[0.968rem]">{item.desc}</p>
-              <div className="mt-4">
+              <div className="mt-[1rem]">
                 <RainbowButton>Learn More</RainbowButton>
               </div>
             </div>
