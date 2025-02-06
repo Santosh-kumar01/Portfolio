@@ -54,11 +54,11 @@ const Navbar = () => {
           {/* Logo Section */}
           <div className="flex gap-2">
             <Image
-              src="/picss.jpeg"
+              src="/santosh-Portfolio.jpeg"
               alt="santosh"
               width={100}
               height={100}
-              className="h-[3rem] w-[2.3rem] rounded-full"
+              className="h-[3rem] w-[2.8rem] rounded-full"
             />
             <div>
               <h1>
