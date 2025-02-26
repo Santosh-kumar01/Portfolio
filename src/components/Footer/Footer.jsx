@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-// import { BorderBeam } from "../ui/border-beam";
+import { BorderBeam } from "../ui/border-beam";
 import { Dock, DockIcon } from "../ui/dock";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { BsInstagram } from "react-icons/bs";
@@ -39,7 +39,7 @@ const Footer = () => {
             ))}
           </Dock>
         </div>
-        {/* <BorderBeam size={250} duration={12} delay={9} /> */}
+        <BorderBeam size={250} duration={12} delay={9} />
       </div>
       <div className="bg-violet-50 w-full text-center mt-3">
         <p className="font-serif text-sm sm:text-base">
