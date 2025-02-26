@@ -15,6 +15,7 @@ const reviews = [
   { name: "Parwati Kumari🧑‍💻", username: "@Parwati_Kumari", body: "It’s impressive how much functionality 💯", img: "Parwati.jpeg" },
   { name: "Rishi Raj👨🏻‍💻", username: "@rock_rishi_raj", body: "Security is well-implemented 🥰", img: "Rishi_raj.jpeg" },
   { name: "Rupam Kumari🧑‍💻", username: "@rupam_kumari", body: "Optimized perfectly for both desktop and mobile users 🤳", img: "Rupam.jpeg" },
+
 ];
 
 const firstRow = reviews.slice(0, reviews.length / 2);
