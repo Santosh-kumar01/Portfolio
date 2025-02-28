@@ -93,7 +93,7 @@ const Home = () => {
                     <p>GitHub</p>
                   </TooltipContent>
                 </Tooltip>
-                <Tooltip>
+                {/* <Tooltip>
                   <TooltipTrigger asChild>
                     <li>
                       <a
@@ -107,7 +107,7 @@ const Home = () => {
                   <TooltipContent>
                     <p>YouTube</p>
                   </TooltipContent>
-                </Tooltip>
+                </Tooltip> */}
                 <Tooltip>
                   <TooltipTrigger asChild>
                     <li>
