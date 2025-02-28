@@ -3,11 +3,12 @@
 import Image from "next/image";
 import React from "react";
 import { FaLinkedin, FaSquareInstagram, FaFacebook } from "react-icons/fa6";
-import { IoLogoGithub, IoLogoYoutube, IoLogoNodejs } from "react-icons/io5";
+import { IoLogoGithub, IoLogoNodejs } from "react-icons/io5"; 
 import { RiJavascriptFill, RiReactjsLine, RiNextjsFill } from "react-icons/ri";
 import { SiTailwindcss, SiSpringboot } from "react-icons/si";
 import { ReactTyped } from "react-typed";
 import Link from "next/link";
+// IoLogoYoutube
 
 import { CheckIcon, ChevronRightIcon } from "lucide-react";
 import { AnimatedSubscribeButton } from "../ui/animated-subscribe-button";
