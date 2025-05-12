@@ -15,6 +15,7 @@ const Navbar = () => {
     { id: "about", text: "About" },
     { id: "skills", text: "Skills" },
     { id: "testimonial", text: "Testimonial" }, // Fixed lowercase ID
+    { id: "project", text: "Project" }, // Fixed lowercase ID
     { id: "portfolio", text: "Portfolio" },
     { id: "contact", text: "Contact" },
   ];

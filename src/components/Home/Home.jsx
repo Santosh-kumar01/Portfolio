@@ -212,7 +212,7 @@ const Home = () => {
               buttonTextColor="#ffffff"
               subscribeStatus={false}
               initialText={
-                <Link href="https://drive.google.com/file/d/1kGAsAjulED9HyQXMROxQGALQY-Odfiv2/view?usp=drivesdk">
+                <Link href="https://drive.google.com/file/d/1zlhLvxPr3mgMO0HhoPgPwr0TcZNEZs3x/view">
                   <span className="group inline-flex items-center font-serif">
                     Download Resume{" "}
                     <ChevronRightIcon className="ml-1 size-4 transition-transform duration-300 group-hover:translate-x-1" />
