@@ -5,7 +5,7 @@ import Marquee from '../ui/marquee';
 
 // Reviews Data
 const reviews = [
-  { name: "Ravi Jaiswal👨🏻‍💻", username: "@jais_ravi", body: "Looks great!✨ Keep building 👍", img: "jaiswal_ravi.jpeg" },
+  { name: "Ravi Jaiswal👨🏻‍💻", username: "@jais_ravi", body: "Looks great!✨ Keep building 👍", img: "" },
   { name: "Khushi Gupta🧑‍💻", username: "@Khushi_gupta", body: "I love how responsive and fast this app is! 🫠", img: "khushi_kr.jpeg" },
   { name: "Prince Kumar Yadav👨🏻‍💻", username: "@Prince_kr_yadav", body:"A great bug solver 🤩", img: "Prince.jpeg" },
   { name: "Anshika Kumari🧑‍💻", username: "@Kumari_anshika", body: "Great use of Tailwind CSS for styling 🔥", img: "Anshika.jpeg" },
