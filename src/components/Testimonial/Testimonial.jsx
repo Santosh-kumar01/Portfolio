@@ -5,16 +5,16 @@ import Marquee from '../ui/marquee';
 
 // Reviews Data
 const reviews = [
-  { name: "Ravi Jaiswal👨🏻‍💻", username: "@jais_ravi", body: "Looks great!✨ Keep building 👍", img: "" },
-  { name: "Khushi Gupta🧑‍💻", username: "@Khushi_gupta", body: "I love how responsive and fast this app is! 🫠", img: "khushi_kr.jpeg" },
-  { name: "Prince Kumar Yadav👨🏻‍💻", username: "@Prince_kr_yadav", body:"A great bug solver 🤩", img: "Prince.jpeg" },
-  { name: "Anshika Kumari🧑‍💻", username: "@Kumari_anshika", body: "Great use of Tailwind CSS for styling 🔥", img: "Anshika.jpeg" },
-  { name: "Sahil Priyadarshi👨🏻‍💻", username: "priyadarshi_sahil", body:"Incredibly talented and hardworking 💥", img: "Sahil.jpeg" },
-  { name: "Shanvi Kumari🧑‍💻", username: "@shanviii", body: "Your codebase is well 👌", img: "shanvi_kumari.jpeg" },
-  { name: "Yash Kumar👨🏻‍💻", username: "@Kr_Yash", body: "You’ve chosen the perfect tech stack for scalability! 💻", img: "Yash.jpeg" },
-  { name: "Parwati Kumari🧑‍💻", username: "@Parwati_Kumari", body: "It’s impressive how much functionality 💯", img: "Parwati.jpeg" },
-  { name: "Rishi Raj👨🏻‍💻", username: "@rock_rishi_raj", body: "Security is well-implemented 🥰", img: "Rishi_raj.jpeg" },
-  { name: "Rupam Kumari🧑‍💻", username: "@rupam_kumari", body: "Optimized perfectly for both desktop and mobile users 🤳", img: "Rupam.jpeg" },
+  { name: "Ravi Jaiswal👨🏻‍💻", username: "@jais_ravi", body: "Looks great!✨ Keep building 👍", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321605/jaiswal_ravi_ca1mr0.jpg" },
+  { name: "Khushi Gupta🧑‍💻", username: "@Khushi_gupta", body: "I love how responsive and fast this app is! 🫠", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321607/khushi_kr_xnrqo6.jpg" },
+  { name: "Prince Kumar Yadav👨🏻‍💻", username: "@Prince_kr_yadav", body:"A great bug solver 🤩", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321609/Prince_ohvzbk.jpg" },
+  { name: "Anshika Kumari🧑‍💻", username: "@Kumari_anshika", body: "Great use of Tailwind CSS for styling 🔥", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321605/Anshika_cgrhtm.jpg" },
+  { name: "Sahil Priyadarshi👨🏻‍💻", username: "priyadarshi_sahil", body:"Incredibly talented and hardworking 💥", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321610/Sahil_chfbux.jpg" },
+  { name: "Shanvi Kumari🧑‍💻", username: "@shanviii", body: "Your codebase is well 👌", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321611/shanvi_kumari_kkq3bi.jpg" },
+  { name: "Yash Kumar👨🏻‍💻", username: "@Kr_Yash", body: "You’ve chosen the perfect tech stack for scalability! 💻", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321615/Yash_fmgcvy.jpg" },
+  { name: "Parwati Kumari🧑‍💻", username: "@Parwati_Kumari", body: "It’s impressive how much functionality 💯", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321608/Parwati_mmeqkp.jpg" },
+  { name: "Rishi Raj👨🏻‍💻", username: "@rock_rishi_raj", body: "Security is well-implemented 🥰", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321610/Rishi_raj_dkp2e2.jpg" },
+  { name: "Rupam Kumari🧑‍💻", username: "@rupam_kumari", body: "Optimized perfectly for both desktop and mobile users 🤳", img: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321610/Rupam_ejaxcv.jpg" },
 
 ];
 
