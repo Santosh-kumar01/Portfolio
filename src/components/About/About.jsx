@@ -15,7 +15,7 @@ const About = () => {
         {/* Image Section */}
         <div className="lg:order-1 order-2">
           <Image
-            src="/Mr.Santosh.jpeg"
+            src="https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750325435/WhatsApp_Image_2025-05-21_at_17.32.14_qcd5eh.jpg"
             alt="Santosh"
             width={100}
             height={100}

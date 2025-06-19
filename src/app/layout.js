@@ -3,6 +3,7 @@ import "./globals.css";
 import Navebar from "@/components/Navebar/Navebar";
 import { Toaster } from "react-hot-toast";
 
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -16,8 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Santosh Kumar",
   description: "My awesome portfolio website",
-  
-
+ 
 
 };
 

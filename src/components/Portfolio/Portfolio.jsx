@@ -15,32 +15,32 @@ const Portfolio = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[1.5rem] justify-center items-center">
         {[
           {
-            src: "/web developmengt new.png",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321615/web_developmengt_new_eixz6v.png",
             title: "Web Development",
             desc: "Web Development involves creating websites and web applications, focusing on Frontend (UI/UX), Backend (server-side), and Full Stack (both).",
           },
           {
-            src: "/SOFTWARE DEVLOPER.jpg",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321612/SOFTWARE_DEVLOPER_nrcjyi.jpg",
             title: "Software Development",
             desc: "Software Development is the process of designing, coding, testing, and maintaining applications or systems to meet user requirements.",
           },
           {
-            src: "/system-development.jpg",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321612/system-development_zekj4o.jpg",
             title: "System Development",
             desc: "System Development involves designing and maintaining hardware and software solutions to ensure efficiency, scalability, and reliability.",
           },
           {
-            src: "/dev-ops1.jpg",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321605/dev-ops1_eb3zzr.jpg",
             title: "DevOps Development",
             desc: "DevOps Development integrates development and operations to improve quality, automate processes, and enhance deployment speed.",
           },
           {
-            src: "/WEB DESIGN.jpg",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321613/WEB_DESIGN_klmqbs.jpg",
             title: "Web Design Development",
             desc: "Web Design Development focuses on creating visually appealing, user-friendly, and responsive websites with modern UI/UX techniques.",
           },
           {
-            src: "/js.jpg",
+            src: "https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321605/js_zfqjms.jpg",
             title: "JavaScript Development",
             desc: "JavaScript Development involves building interactive web applications, server-side logic, and scalable solutions using JavaScript frameworks.",
           },

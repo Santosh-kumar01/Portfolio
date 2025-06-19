@@ -55,7 +55,7 @@ const Navbar = () => {
           {/* Logo Section */}
           <div className="flex gap-2">
             <Image
-              src="/santosh-Portfolio.jpeg"
+              src="https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750321611/santosh-Portfolio_g9cgtw.jpg"
               alt="santosh"
               width={100}
               height={100}

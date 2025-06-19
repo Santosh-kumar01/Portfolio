@@ -230,7 +230,7 @@ const Home = () => {
         </div>
         <div className="order-1 md:order-2 flex justify-center items-center">
           <Image
-            src="/Mr.Santosh.jpeg"
+            src="https://res.cloudinary.com/dlp9tgx5b/image/upload/v1750326491/Mr.Santosh_rn6ds2.jpg"
             alt="santosh"
             width={100}
             height={100}
